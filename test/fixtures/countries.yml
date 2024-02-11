@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  capital_city: MyString
+  other_cities: MyText
+  currencies: MyText
+  location: MyText
+  known_by: MyText
+  map: MyString
+  flag: MyString
+
+two:
+  name: MyString
+  capital_city: MyString
+  other_cities: MyText
+  currencies: MyText
+  location: MyText
+  known_by: MyText
+  map: MyString
+  flag: MyString
